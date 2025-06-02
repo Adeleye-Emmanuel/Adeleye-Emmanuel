@@ -26,7 +26,6 @@ If you have an idea or would like to collaborate on any subject, feel free to co
 
 - 📫 [LinkedIn](https://www.linkedin.com/in/emmanueladeleye)
 - 📧 [Email](emmanueladeleye102@gmail.com)
-- ✍️ [Portfolio Site](#) *(Coming soon)*
 
 _Thanks for visiting my GitHub!_ 🌍✨
 
