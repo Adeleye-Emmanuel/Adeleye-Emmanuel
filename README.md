@@ -2,7 +2,7 @@
 
 🎓 Data Scientist | 🧠 NLP/LLM Enthusiast | 🔐 Applied ML in Cybersecurity & Finance
 
-<!--
+
 **Welcome to my repository!!
 
 I am a data scientist and machine learning engineer with a background in Engineering, operational workflows, and a core interest in leveraging artificial intelligence and LLM frameworks to build solutions with big data in the frontiers of tech, finance and quantitative analysis.
@@ -10,10 +10,10 @@ This repository contains a plethora of projects across different fields with the
 If you have an idea or would like to collaborate on any subject, feel free to connect with me and let's build solutions together.
 
 I'm passionate about:
-- 📊 **Building data-driven systems that solve real problems**  
-- 🧠 **Translating LLMs from research into applied use cases**  
-- ⚙️ **Designing pipelines that scale across industries: finance, health, tech**  
-- 🛠️ **Fusing RAG, clustering, and retrieval to surface buried insights**
+- 📊 **Building data-driven systems that solve real problems  
+- 🧠 **Translating LLMs from research into applied use cases  
+- ⚙️ **Designing pipelines that scale across industries: finance, health, tech 
+- 🛠️ **Fusing RAG, clustering, and retrieval to surface buried insights
 
 ## 🛠️ Current Focus Areas and Future Work Spans
 - 💬 **Natural Language Understanding** with LLMs  
@@ -32,4 +32,4 @@ Whether it's extracting market signals from chaotic news, clustering patient com
 - ✍️ [Medium/Blog](#) *(Coming soon)*
 
 _Thanks for visiting my GitHub!_ 🌍✨
--->
+
