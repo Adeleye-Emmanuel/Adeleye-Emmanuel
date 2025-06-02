@@ -3,7 +3,7 @@
 ⚙️ Machine Learning Engineer | 🧠 NLP/LLM Developer | 📊 Financial Data Science
 
 
-**Welcome to my repository!!
+**Welcome to my repository!!**
 
 I am a data scientist and machine learning engineer with a background in Engineering, operational workflows, and a core interest in leveraging artificial intelligence and LLM frameworks to build solutions with big data in the frontiers of tech, finance and quantitative analysis.
 This repository consists of a plethora of projects across different fields with the primary goal of being a space where critical thinking meets evolving tools and data to create tangible insights that will translate to business value.
