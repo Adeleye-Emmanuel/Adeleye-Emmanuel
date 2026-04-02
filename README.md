@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Emmanuel Adeleye 
 
-⚙️ Machine Learning Engineer | 🧠 NLP/LLM Developer | 📊 Financial Data Science
+📈 Quantitative Strategist| ⚙️ Machine Learning Engineer | 📊 Financial Data Science
 
 
 **Welcome to my repository!!**
